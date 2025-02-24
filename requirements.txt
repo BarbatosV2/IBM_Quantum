@@ -1,0 +1,9 @@
+qiskit
+qiskit-ibm-runtime
+matplotlib
+numpy
+scipy
+pylatexenc
+networkx
+sympy
+ipywidgets
